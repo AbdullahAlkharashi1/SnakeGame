@@ -1,8 +1,16 @@
-# Snake (2D)
+# Snake
 
-> Snake is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. The concept originated in the 1976 arcade game Blockade, and the ease of implementing Snake has led to hundreds of versions (some of which have the word snake or worm in the title) for many platforms. After a variant was preloaded on Nokia mobile phones in 1998, there was a resurgence of interest in the snake concept as it found a larger audience.
+Welcome to Snake, a classic snake game implementation.
 
-- **Topics**: Grid Movement, Data Structures
-- **Version**: Unity 2019.4 (LTS)
-- [**Download**](https://github.com/zigurous/unity-snake-tutorial/archive/refs/heads/main.zip)
-- [**Watch Video**](https://youtu.be/U8gUnpeaMbQ)
+## Description
+
+This project is a simple implementation of the classic Snake game. It provides a fun and interactive experience where players control a snake to eat food and grow longer while avoiding collisions with walls and the snake's own body.
+
+## Features
+
+- Responsive controls for smooth gameplay.
+- Score tracking to keep track of your progress.
+- Increasing difficulty as the snake grows longer.
+- Game over screen with the option to restart.
+
+
